@@ -1,0 +1,2 @@
+Otro ejemplo de archivo .txt
+Buen día!

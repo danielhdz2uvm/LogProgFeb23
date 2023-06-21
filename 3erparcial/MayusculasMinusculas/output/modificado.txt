@@ -1,0 +1,2 @@
+texto ingresado desde teclado en el archivo modificado fin
+in

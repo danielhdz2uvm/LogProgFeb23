@@ -1,0 +1,5 @@
+Hola buen día a todos
+Bienvenidos a la clase
+Clase de programación en C++
+hola!
+Buen día!
